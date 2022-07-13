@@ -1,5 +1,5 @@
-<a href="#"><img margin-left=" auto";
-  margin-right= "auto"; width="50%" height="auto" src="https://previews.123rf.com/images/annaduvanova/annaduvanova1911/annaduvanova191100003/136827065-creative-girl-working-on-a-laptop-vector-illustration-in-flat-design-style-.jpg" height="175px"/></a>
+<a href="#"><img margin-left=" auto"
+  margin-right= "auto" width="50%" height="auto" src="https://previews.123rf.com/images/annaduvanova/annaduvanova1911/annaduvanova191100003/136827065-creative-girl-working-on-a-laptop-vector-illustration-in-flat-design-style-.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Babykrishna</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
