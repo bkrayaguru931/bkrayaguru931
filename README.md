@@ -1,4 +1,5 @@
-<a href="#"><center><img  width="50%" height="50%" src="https://cdn.dribbble.com/users/1418633/screenshots/4780227/media/e9c8098bcdfb2a7eac8f50bb7c537485.png?compress=1&resize=400x300" /></center></a>
+<a href="#"><center><img 
+                         src="https://cdn.dribbble.com/users/1418633/screenshots/4780227/media/e9c8098bcdfb2a7eac8f50bb7c537485.png?compress=1&resize=400x300" /></center></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Babykrishna</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
