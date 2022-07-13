@@ -1,4 +1,4 @@
-<a href="#"><center><img margin="50px" width="100%" height="400px" align="center" src="https://static.vecteezy.com/system/resources/previews/002/794/133/original/young-woman-working-on-laptop-freelance-or-studying-concept-cute-trendy-illustration-in-flat-style-free-vector.jpg" /></center></a>
+<a href="#"><center><img margin="100px" width="100%" height="400px" align="center" src="https://static.vecteezy.com/system/resources/previews/002/794/133/original/young-woman-working-on-laptop-freelance-or-studying-concept-cute-trendy-illustration-in-flat-style-free-vector.jpg" /></center></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Babykrishna</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
