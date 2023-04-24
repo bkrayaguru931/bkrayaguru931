@@ -6,17 +6,13 @@
 
 ## 🙋🏻‍♀️ About Me
 
-- 🔭 I’m currently working on **[Sorting Visualizer](https://sortingvizualiser.bkrayaguru931.repl.co/)**
-
-- 🌱 I’m currently learning **DSA, MERN Stack, Blockchain.**
+- 🌱 I’m currently learning **DSA, MERN Stack, Machine Learning.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👩🏻‍💻 All of my projects are available at **[My Portfolio](https://bkrayaguru.netlify.app/)**
 
 - 📫 How to reach me **babykrishnarayaguru@gmail.com**
-
-- ⚡ Fun fact: **The average computer user blinks just 7 times a minute.**
 
 ## 🚀 Languages and Tools:
 
@@ -49,6 +45,8 @@
     <img src="https://img.icons8.com/color/2x/intellij-idea.png" alt="intelij" width="40" height="40"/> </a>
     <a href="https://www.sublimetext.com/" target="_blank"> 
     <img src="https://img.icons8.com/color/2x/sublime-text.png" alt="sublime text" width="40" height="40"/> </a>
+    <a href="https://atom.io/" target="_blank"> 
+    <img src="https://img.icons8.com/color/2x/atom-editor.png" alt="atom" width="40" height="40"/> </a>
     <a href="https://atom.io/" target="_blank"> 
     <img src="https://img.icons8.com/color/2x/atom-editor.png" alt="atom" width="40" height="40"/> </a>
     
@@ -89,7 +87,7 @@
 <a href = "https://auth.geeksforgeeks.org/user/bkrayaguru931/saved-articles/"><img src="https://img.icons8.com/color/2x/GeeksforGeeks.png" height="48"/></a>
 <a href = "https://www.codechef.com/users/kriishnna_24"><img src="https://img.icons8.com/color/2x/codechef.png" height="48"/></a>
 <a href = "https://github.com/bkrayaguru931"><img src="https://img.icons8.com/color/2x/github-2.png" height="48"/></a>
-<a href = "https://replit.com/@bkrayaguru931"><img src="data:image/png;base64,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" height="48"/></a>
+
 <a href = "https://leetcode.com/bkrayaguru931/"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height="48"/></a>
 
 </p>
