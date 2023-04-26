@@ -1,4 +1,4 @@
-<a href="#"><center><img margin="100px" width="100%" height="400px" align="center" src="https://cdn.dribbble.com/users/503056/screenshots/3494902/laptopspin.gif" /></center></a>
+<!-- <a href="#"><center><img margin="100px" width="100%" height="400px" align="center" src="https://cdn.dribbble.com/users/503056/screenshots/3494902/laptopspin.gif" /></center></a> -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Babykrishna</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
