@@ -16,7 +16,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<!-- <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.cplusplus.com" target="_blank"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="45" height="45"/> </a>
      <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
@@ -60,7 +60,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="bkrayaguru931's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bkrayaguru931&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
+ -->
 ## 📊 My Github Stats
 
   <br/>
@@ -84,11 +84,11 @@
 <a href = "https://www.linkedin.com/in/babykrishna-rayaguru-74122b207/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/bkrayaguru913"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/kriishnna_24/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://auth.geeksforgeeks.org/user/bkrayaguru931/saved-articles/"><img src="https://img.icons8.com/color/2x/GeeksforGeeks.png" height="48"/></a>
-<a href = "https://www.codechef.com/users/kriishnna_24"><img src="https://img.icons8.com/color/2x/codechef.png" height="48"/></a>
+<!-- <a href = "https://auth.geeksforgeeks.org/user/bkrayaguru931/saved-articles/"><img src="https://img.icons8.com/color/2x/GeeksforGeeks.png" height="48"/></a>
+<a href = "https://www.codechef.com/users/kriishnna_24"><img src="https://img.icons8.com/color/2x/codechef.png" height="48"/></a> -->
 <a href = "https://github.com/bkrayaguru931"><img src="https://img.icons8.com/color/2x/github-2.png" height="48"/></a>
 
-<a href = "https://leetcode.com/bkrayaguru931/"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height="48"/></a>
+<!-- <a href = "https://leetcode.com/bkrayaguru931/"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height="48"/></a> -->
 
 </p>
 
