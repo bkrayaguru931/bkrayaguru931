@@ -61,7 +61,7 @@
     </a>
 </p>
  -->
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/bkrayaguru931/github-readme-stats"><img alt="bkrayaguru931's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bkrayaguru931&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -77,7 +77,7 @@
 
 <br/>
 <br/>
-
+ -->
 ## Connect with me:
 <p align="left">
 
