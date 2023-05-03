@@ -84,11 +84,7 @@
 <a href = "https://www.linkedin.com/in/babykrishna-rayaguru-74122b207/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/bkrayaguru913"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/kriishnna_24/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<!-- <a href = "https://auth.geeksforgeeks.org/user/bkrayaguru931/saved-articles/"><img src="https://img.icons8.com/color/2x/GeeksforGeeks.png" height="48"/></a>
-<a href = "https://www.codechef.com/users/kriishnna_24"><img src="https://img.icons8.com/color/2x/codechef.png" height="48"/></a> -->
 <a href = "https://github.com/bkrayaguru931"><img src="https://img.icons8.com/color/2x/github-2.png" height="48"/></a>
-
-<!-- <a href = "https://leetcode.com/bkrayaguru931/"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height="48"/></a> -->
 
 </p>
 
