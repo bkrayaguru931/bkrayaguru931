@@ -60,8 +60,8 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="bkrayaguru931's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bkrayaguru931&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
- -->
-<!-- ## 📊 My Github Stats
+
+## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/bkrayaguru931/github-readme-stats"><img alt="bkrayaguru931's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bkrayaguru931&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -73,12 +73,12 @@
 <br/>
 <br/>
 
-<a href="https://github.com/bkrayaguru931/github-readme-activity-graph"><img alt="bkrayaguru931's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bkrayaguru931&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/bkrayaguru931/github-readme-activity-graph"><img alt="bkrayaguru931's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bkrayaguru931&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
- -->
-🔗Connect with me:
+
+## 🔗Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/babykrishna-rayaguru-74122b207/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
