@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👩🏻‍💻 All of my projects are available at **[My Portfolio](https://bkrayaguru.netlify.app/)**
+<!-- - 👩🏻‍💻 All of my projects are available at **[My Portfolio](https://bkrayaguru.netlify.app/)** -->
 
 - 📫 How to reach me **babykrishnarayaguru@gmail.com**
 
